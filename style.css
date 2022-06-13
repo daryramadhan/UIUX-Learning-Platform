@@ -103,15 +103,15 @@
   
   /* article */
   .card {
-    /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); */
+    box-shadow: 10px 10px rgba(0, 0, 0, 0.1);
     border: solid black;
     border-width: thin;
     /* border-radius: 5px; */
     padding: 40px;
-    margin: 20px;
+    margin: 20px 20px 40px 20px;
     background-color: white;
   }
-  
+
   article ul {
     padding-left: 20px;
     margin-bottom: 10px;
